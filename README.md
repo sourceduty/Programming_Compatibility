@@ -16,7 +16,7 @@ Programming languages are the tools used by developers to write instructions tha
 The first programming language is generally considered to be Assembly Language, used in the early days of computing in the 1940s. However, the first high-level programming language, which marked a significant advancement in the ease and efficiency of coding, was Fortran (short for Formula Translation). Developed by IBM in the 1950s, Fortran was designed for scientific and engineering calculations, making it much easier for programmers to write complex mathematical formulas compared to using assembly language. Fortran's development paved the way for the creation of other high-level programming languages and set the stage for modern software development practices.
 
 #
-### Programming Language Incompatability
+### Programming Language Incompatibility
 
 While most programming languages can interact with each other through various means (such as APIs, inter-process communication, or using intermediate languages like C for linking), there are certain combinations where direct interaction is challenging due to fundamental differences in design, runtime environments, or ecosystems. Here are some examples:
 
